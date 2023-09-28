@@ -1,4 +1,4 @@
-1.apple
-2.maggie
-3.soap
-4.pen
+1.apple  5rs
+2.maggie 10rs
+3.soap   30rs
+4.pen    5rs
