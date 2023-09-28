@@ -1,2 +1,4 @@
 1.apple
 2.maggie
+3.soap
+4.pen
